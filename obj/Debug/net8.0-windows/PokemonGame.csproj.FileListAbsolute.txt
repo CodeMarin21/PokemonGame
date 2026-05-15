@@ -1,0 +1,16 @@
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\PokemonGame.Presentation.GameForm.resources
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\PokemonGame.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\PokemonGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\PokemonGame.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\PokemonGame.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\PokemonGame.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\bin\Debug\net8.0-windows\PokemonGame.exe
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\bin\Debug\net8.0-windows\PokemonGame.deps.json
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\bin\Debug\net8.0-windows\PokemonGame.runtimeconfig.json
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\bin\Debug\net8.0-windows\PokemonGame.dll
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\bin\Debug\net8.0-windows\PokemonGame.pdb
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\PokemonGame.dll
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\refint\PokemonGame.dll
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\PokemonGame.pdb
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\PokemonGame.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\PokemonFinal\PokemonGame\obj\Debug\net8.0-windows\ref\PokemonGame.dll
